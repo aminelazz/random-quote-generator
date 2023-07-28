@@ -1,5 +1,5 @@
 {
-    "name": "random-quote-generator",
+    "name": "react-random-quote-generator",
     "version": "1.0.0",
     "author": "Amine EL AZZOUZI",
     "license": "MIT",
@@ -18,5 +18,9 @@
     "files": [
         "dist",
         "README.md"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/aminelazz/react-random-quote-generator.git"
+    }
 }
