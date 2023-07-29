@@ -10,7 +10,7 @@ npm install react-random-quote-generator
 
 ## Quick Start
 
-To implement this component in your react app, you have to install it using the command above and require it in your js file.
+To implement this component in your react app, you have to install it using the command above and import it in your js file.
 
 Example:
 
