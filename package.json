@@ -22,5 +22,8 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/aminelazz/react-random-quote-generator.git"
+    },
+    "devdependencies": {
+        "styled-components": "^6.0.5"
     }
 }
