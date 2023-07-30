@@ -1,6 +1,6 @@
 {
     "name": "react-random-quote-generator",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "author": "Amine EL AZZOUZI",
     "license": "MIT",
     "description": "A React component that generates random quotes (using https://api.quotable.io)",
