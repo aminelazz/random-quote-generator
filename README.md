@@ -20,12 +20,12 @@ import { QuoteGenerator } from "react-random-quote-generator"
 function Component() {
     // Your code here
 
-    return (
-        <QuoteGenerator>
-    )
+    return <QuoteGenerator />
 }
 
 export default Component
 ```
 
 You can put it inside a div and give it custom padding and width.
+
+Note: the API is down now.
