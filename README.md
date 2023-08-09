@@ -32,4 +32,4 @@ export default Component
 
 You can put it inside a div and give it custom padding and width.
 
-Note: ~~the API is down now~~.
+Note: ~~the API is currently down~~.
